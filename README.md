@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eyad
+- 👋 Hi, I’m Eyad
 - 👀 I’m interested programming and write code
 - 🌱 I’m currently learning Flutter Mobile near of Web Development
 - 💞️ I’m looking to collaborate on ...
