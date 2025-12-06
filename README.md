@@ -42,14 +42,6 @@ A fast and modern CV/resume builder for users.
 ### ⭐ **LMS Platform**  
 A complete learning management system with dashboards, courses, roles, and quizzes.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Activity](https://raw.githubusercontent.com/Eyadoo98/github-stats/master/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Eyadoo98/github-stats/master/generated/languages.svg)
-
-
 
 ---
 
