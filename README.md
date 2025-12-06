@@ -1,60 +1,61 @@
-<h1 align="center">
-  👋 Hey, I'm <strong>Eyad Jafar</strong>
-</h1>
-<h3 align="center">✨ Full-Stack Developer | PHP | Laravel | JS ✨</h3>
+<h1 align="center">👋 Hi, I'm <strong>Eyad Jafar</strong></h1>
+<h3 align="center">Full-Stack Developer | PHP & JavaScript Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eyadoo98&label=Profile%20Views&style=flat" />
+  🌍 Building modern, scalable applications  
+  <br>🎯 Currently learning <strong>Software Engineering</strong>  
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Full-stack developer specializing in **PHP + Laravel + JavaScript**  
-- 🎨 I love building beautiful UI with **React, Alpine.js & TailwindCSS**  
-- ⚡ I enjoy solving problems, optimizing code, and creating smart apps  
-- 📚 Currently diving deeper into **Software Engineering**  
+## 🚀 Tech Stack
+
+### 🔧 Backend
+- **PHP**, Laravel, Livewire, FilamentPHP  
+- CodeIgniter, CakePHP  
+- REST APIs, AJAX, JSON  
+- OOP, MVC Architecture  
+
+### 🎨 Frontend
+- HTML, CSS, JavaScript  
+- React, Alpine.js  
+- TailwindCSS, Bootstrap  
+
+### 🗄️ Database
+- MySQL, SQL  
+
+### ⚙️ Others
+- API Integrations  
+- Authentication systems  
+- Full CRUD applications  
 
 ---
 
-## 🛠️ Tech Skills
+## 🧩 Featured Projects
 
-### Backend  
-`PHP` `Laravel` `Livewire` `Filament` `CodeIgniter` `CakePHP`  
-`OOP` `JSON` `AJAX` `REST API`
+### ⭐ **Fillit App**  
+A form and data automation system for managing workflows.
 
-### Frontend  
-`HTML` `CSS` `JavaScript`  
-`React` `Alpine.js`  
-`TailwindCSS` `Bootstrap`
+### ⭐ **Cvume App**  
+A fast and modern CV/resume builder for users.
 
-### Database  
-`MySQL`
+### ⭐ **LMS Platform**  
+A complete learning management system with dashboards, courses, roles, and quizzes.
 
 ---
 
-## 🌟 Featured Projects
-
-🚀 **Fillit App** – A smart automation + forms system  
-📝 **Cvume App** – A modern CV builder  
-🎓 **LMS** – Full learning management system  
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Eyadoo98&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadoo98&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyadoo98&show_icons=true" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
-<p>
- • Facebook: https://web.facebook.com/eyad.sahoory.9/  
- • LinkedIn: https://www.linkedin.com/in/eyad-jafar-796231184/  
- • GitHub: https://github.com/Eyadoo98  
-</p>
+## 🌍 Connect With Me
+
+- **Facebook:** https://web.facebook.com/eyad.sahoory.9/  
+- **LinkedIn:** https://www.linkedin.com/in/eyad-jafar-796231184/  
+- **GitHub:** https://github.com/Eyadoo98  
 
 ---
