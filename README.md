@@ -34,7 +34,7 @@
 ## 🧩 Featured Projects
 
 ### ⭐ **Fillit App**  
-A form and data automation system for managing workflows.
+A competitive **drawing application** where users create drawings, compete in challenges, and earn scores based on creativity and accuracy.
 
 ### ⭐ **Cvume App**  
 A fast and modern CV/resume builder for users.
