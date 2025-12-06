@@ -47,8 +47,9 @@ A complete learning management system with dashboards, courses, roles, and quizz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ashy-one-75.vercel.app/api/top-langs/?username=Eyadoo98&layout=compact" />
+  <img src="https://github-readme-stats-git-masterorg-fork.vercel.app/api?username=Eyadoo98&show_icons=true" />
 </p>
+
 
 ---
 
