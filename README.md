@@ -46,9 +46,9 @@ A complete learning management system with dashboards, courses, roles, and quizz
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorg-fork.vercel.app/api?username=Eyadoo98&show_icons=true" />
-</p>
+![GitHub Activity](https://raw.githubusercontent.com/Eyadoo98/github-stats/master/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Eyadoo98/github-stats/master/generated/languages.svg)
+
 
 
 ---
